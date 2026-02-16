@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" tvg-logo="https://raw.githubusercontent.com/jhruby49/Ocko-tv/main/ocko-expres.png" group-title="Music",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" tvg-logo="https://raw.githubusercontent.com/jhruby49/Ocko-tv/main/ocko-gold.png" group-title="Music",Ocko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko Hity" tvg-logo="https://raw.githubusercontent.com/jhruby49/Ocko-tv/main/ocko-hity.png" group-title="Music",Ocko Hity
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
